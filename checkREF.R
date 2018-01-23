@@ -11,7 +11,7 @@ biocLite()
 biocLite(c("Rsamtools", "BSgenome"))
 
 
-## From here to finish, several minutes on my PC with a 2000-coordinate list. 
+## From here to finish, < two minutes on my PC with a 2000-coordinate list. 
 
 library(Rsamtools)
 library(BSgenome)
